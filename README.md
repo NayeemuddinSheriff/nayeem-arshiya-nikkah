@@ -2,7 +2,7 @@
 # Wedding Invite Landing Page - Nayeem & Arshiya Valima
 Wedding Invitation of Nayeem & Arshiya - Sunday, 15 january 2023
 
-![Thumbnail](https://valima-nayeem-arshiya.web.app/image/thumbnail.png)
+![Thumbnail](https://nikkah-nayeem-arshiya.web.app/image/invite.png)
 
 
 # Section/Feature
